@@ -1,4 +1,4 @@
-# -*- coding: Latin-1 -*-
+# -*- coding: Latin-1 -*- hello mon commentaire
 # La première ligne permet de prendre en compte les caractères accentués
 
 # Premier essai de script Python
